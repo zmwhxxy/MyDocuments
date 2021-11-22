@@ -37,3 +37,12 @@ Win11子系统 Ubuntu 安装 mysql
     全表查询: 	select * from [表名];   
 7.退出mysql数据库
     使用quit命令或者按ctrl+z组合键退出.
+8.使用windows数据库软件连接mysql
+    1.首先需要改变MySQL的配置,执行sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf.
+    2.将找到 bind-address = 127.0.0.1 并注释掉 → # bind-address = 127.0.0.1.
+    3.执行service mysql restart重启 MySQL 服务.
+    4.开启 MySQL 远程访问
+        1.首先登录MySQL.
+        2.执行：GRANT ALL PRIVILEGES ON *.* TO '用户名'@'%'IDENTIFIED BY '密码' WITH GRANT OPTION;新增远程访问用户和用户密码.
+        3.执行 flush privileges;刷新
+    5.打开windows上数据库软件的远程访问MySQL的 终端/客户端.
