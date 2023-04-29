@@ -1,0 +1,1 @@
+{"id":"01gz65efayakgtmweareezypbv","item_id":"01g8nn3mh559z25dc410x2q39r","add_time_ms":1682760482142,"hash":"a6fdccbce9e016301e81d698dbeaf196","full_content":"典型的应用程序由各种小部件组成。这些小部件被放置在容器小部件中。程序员必须管理应用程序的布局。这不是一项容易的任务。\n\n在wxWidgets中，我们有两个选择:\n\n*绝对位置\n*尺寸器\n\n","_id":"2"}

@@ -1,0 +1,1 @@
+{"id":"01gz65efbe70hpzygkd6t6a729","item_id":"01g8dzr6tkss702yq6vn1wjc3m","add_time_ms":1682760482158,"hash":"0477d005f6eff86bb47c193ecc336a8e","full_content":"wxWidgets由一组帮助程序员完成工作的帮助类组成。这些类包括处理字符串、文件、XML文件、流、数据库或网络的类。在这里我们只展示整个类库的一小部分。\n\nwxWidgets库可用于创建控制台和GUI应用程序。在本章中，我们将演示基于控制台的应用程序中的一些helper类。\n\n\n","_id":"6"}
