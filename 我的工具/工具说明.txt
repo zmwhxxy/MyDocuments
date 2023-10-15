@@ -1,5 +1,5 @@
-python环境为3.x+
-PIL
+﻿python环境为3.x+
+PIL(Pillow )
 json
 tkinter
 等库

@@ -265,7 +265,7 @@ tk.Checkbutton(chf, text = "目录名导出为产品名", variable = isTitleDir,
 fm4 = tk.Frame(window, relief=tk.FLAT)
 fm4.pack(side=tk.TOP)
 
-s_width=tk.Scale(fm4, from_=0, to=1000, orient="horizonta", label="宽度(像素)", tickinterval=100,  length=1000)
+s_width=tk.Scale(fm4, from_=0, to=10000, orient="horizonta", label="宽度(像素)", tickinterval=1000,  length=10000)
 s_width.pack(side=tk.TOP);
 
 
@@ -273,7 +273,7 @@ s_width.pack(side=tk.TOP);
 # 图片高 控制
 fm5 = tk.Frame(window, relief=tk.FLAT)
 fm5.pack(side=tk.TOP)
-s_height = tk.Scale(fm5, from_=0, to=1000, orient="horizonta", label="高度(像素)", tickinterval=100,  length=1000)
+s_height = tk.Scale(fm5, from_=0, to=10000, orient="horizonta", label="高度(像素)", tickinterval=1000,  length=10000)
 s_height.pack(side=tk.BOTTOM);
 
 ############################################################################
