@@ -1,0 +1,1 @@
+{"id":"01hdmhb1167bjcfpt89g8fdqas","item_id":"01hdk3qenchyk6pp5qhtpmpe33","add_time_ms":1698275099686,"hash":"295db381958646a51825f45042e262ac","full_content":"set(CMAKE_DEBUG_POSTFIX \"d\")\n比如生成debug版的zlib库,名称为: zlibd.lib 或 zlibd.a","_id":"74"}

@@ -1,0 +1,1 @@
+{"id":"01hdd642bwp1b7pcw345m6rzss","item_id":"01hdd48fz86jm72y0m9s2dmpxm","add_time_ms":1698028456316,"hash":"b9e0304452cba27c7387a5e18c63f510","full_content":"# 复制out.lib 库到目标目录\nadd_custom_command(TARGET ${PROJECT_NAME} POST_BUILD  COMMAND ${CMAKE_COMMAND} -E copy_if_different  $<TARGET_FILE:out.lib>  $<TARGET_FILE_DIR:${PROJECT_NAME}>)","_id":"69"}

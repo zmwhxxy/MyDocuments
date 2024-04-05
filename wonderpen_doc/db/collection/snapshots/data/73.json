@@ -1,0 +1,1 @@
+{"id":"01hdmhb0rv552qaayqaa68p6n0","item_id":"01hdjt574v4b0n7zyya4b8580q","add_time_ms":1698275099420,"hash":"c9b5ce7544d545764a1cdfd9905cacbf","full_content":"if( CMAKE_SIZEOF_VOID_P EQUAL 8 ) \n    # 64bit CPU\n  else( CMAKE_SIZEOF_VOID_P EQUAL 8 )\n    # 32 bit CPU\n  endif( CMAKE_SIZEOF_VOID_P EQUAL 8 )\n  \n","_id":"73"}
