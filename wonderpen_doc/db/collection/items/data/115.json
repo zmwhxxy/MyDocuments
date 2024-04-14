@@ -1,0 +1,1 @@
+{"id":"01hvazqgg41ps9xw38bhq8dj98","add_time_ms":1712987030020,"type":"doc","title":"常用组件","_id":"115","char_count":{"word":54,"char_without_spaces":110,"char_with_spaces":110,"char_all":120},"content":"小程序常用的组件有：\n1.view组件\n2.swiper和swiper-item组件\n3.image组件\n4.text组件\n5.navigator组件\n6.scroll-view组件\n7.字体图标\n\n\n使用小程序常用的组件实现项目首页的效果","edit_time_ms":1712987145221}
