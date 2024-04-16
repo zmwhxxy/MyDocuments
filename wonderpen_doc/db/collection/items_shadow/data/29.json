@@ -1,0 +1,1 @@
+{"id":"01hvjqk4vq6zseehe94fby9xvb","add_time_ms":1713246933879,"type":"doc","title":"网络请求","_id":"29","char_count":{"word":73,"char_without_spaces":102,"char_with_spaces":102,"char_all":103},"content":"在小程序中发起网络请求获取服务器数据需要使用wx.request()接口。\nwx.request请求的域名必须在微信公众平台进行配置，如果使用的wx.request请求未配置的域名，在控制台会有相应的报错。\n","edit_time_ms":1713249304592}
