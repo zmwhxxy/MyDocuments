@@ -1,0 +1,1 @@
+{"id":"01jdccsw5d1jbv3pw56e78a6e8","item_id":"01jdccgcfhbgdxd82ncbm0qep1","add_time_ms":1732361646253,"hash":"52003590f112d04d983e5d571a88a061","version_key":1,"full_content":"### 编写最简单的服务\n\nlocal skynet = require \"skynet\"\n\nskynet.start(function()\n   skynet.error(\"最简单的服务\")\nend)\n\n\n### 启动服务\n","_id":"162"}

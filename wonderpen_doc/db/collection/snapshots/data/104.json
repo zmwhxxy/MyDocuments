@@ -1,0 +1,1 @@
+{"id":"01jdc8smbaq36r20a0zkb2dxrw","item_id":"01hve44br2d9cyej0qvbhvc4s5","add_time_ms":1732357443946,"hash":"b13b2f514ddc808dd77f3e594f3ebe17","version_key":1,"full_content":"当编写小程序的样式文件时，我们可以使用background-image属性来设置元素的背景图片。\n\n**注意事项**：\n小程序的background-image不支持本地路径，需要使用网络图片，或者base64使用<image/>组件","_id":"104"}

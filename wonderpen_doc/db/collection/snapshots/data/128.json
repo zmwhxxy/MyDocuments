@@ -1,0 +1,1 @@
+{"id":"01jdc8smd0nhqk2ypqqtq7h28e","item_id":"01hvnmazbx8q7yfv3wdh1jqa2z","add_time_ms":1732357444001,"hash":"e901a22562cd26a1b2e04660d50d9ad7","version_key":1,"full_content":"组件数据和方法需要在组件.js的component方法中进行定义。\ncomponent创建自定义组件：\n1.data：定义组件的内部数据。\n2.methods：在组件中事件处理程序需要写到methods中才可以。\n3.properties：组件对外属性，主要用来接收组件使用者传递给组件内部的数据和data一同用于组件的模板渲染。","_id":"128"}

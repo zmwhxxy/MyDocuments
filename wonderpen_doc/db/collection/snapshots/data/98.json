@@ -1,0 +1,1 @@
+{"id":"01jdc8smaw0rmsbree5j409w40","item_id":"01hvazc4gb25zjzpe4hmhng776","add_time_ms":1732357443932,"hash":"b4d38555b9be8f9c318333b43c5bbd80","version_key":1,"full_content":"全局样式：指在app.wxss中定义的样式规则，作用于每个页面，例如：设置字号，背景色，宽高等全局样式。\n\n局部样式：指在page.wxss中定义样式规则，只作用在对应的页面，并会覆盖app.wxss中相同的选择器。\n\n特点：全局对全部页面都有效，局部定义的效果在局部页面中可以覆盖全局样式。","_id":"98"}
